@@ -1,6 +1,6 @@
 # 每日作息重組
 
-* dynamic_ALG_巛_ML_Qt_STM32_Python_Lesson
+* dynamic_A_巛_M_Qt_STM32_Python_Lesson
 
 05.30-08.20 LC [直觀實現 + 優化 + 深究學習]
 
