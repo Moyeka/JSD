@@ -2,7 +2,7 @@
 
 * dynamic_A_巛_M_Qt_STM32_Python_Lesson
 
-05.30-08.20 LC [直觀實現 + 優化 + 深究學習]
+05.30-08.20 LC (直觀實現 + 優化 + 深究學習)
 
 08.30-12.00 lesson // dynamic
 
@@ -20,4 +20,5 @@
 
 * 閱讀 
 * 英語 
-* PR
+
+每月更新gitub并download在VS file
