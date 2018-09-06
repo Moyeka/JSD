@@ -17,8 +17,8 @@
 23.00準時夜修
 
 
-
+* excel
+* PS
 * 閱讀 
 * 英語 
-
-每月更新gitub并download在VS file
+* 烹饪
